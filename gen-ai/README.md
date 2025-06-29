@@ -73,6 +73,14 @@
 - train_test_split: helps split dataset into training and testing sets. commonly used in predictive machine learning
 - accuracy_score: provides a way to measure the accuracy of the model by comparing predicted labels with actual labels in the test set
 
+## Machine Translation
+### What is machine translation?
+- Automatically converts text from one language to another using computer algorithms (eg. Google Translate)
+
+### How does machine translation work?
+- Training with data: trained on vast amounts of text in multiple languages
+- Generating translation: once trained, system can translate single sentence. modern systems can understand the context during translation
+
 ## Glossary
 
 - Gen AI: Generative Artificial Intelligence
